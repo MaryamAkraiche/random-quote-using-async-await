@@ -9,6 +9,7 @@ body {
   background-position: center;
   font-family: "Playfair Display", serif;
   color: rgb(116, 89, 49);
+  font-size: 18px;
 }
 
 .container {
@@ -32,6 +33,7 @@ body {
   font-size: 26px;
   min-height: 110px;
   font-family: "Great Vibes", cursive;
+  font-size: 30px;
 }
 .container blockquote::before, .container blockquote::after {
   content: '"';

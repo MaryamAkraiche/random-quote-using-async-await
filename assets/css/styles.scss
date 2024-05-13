@@ -8,6 +8,7 @@ body{
     background-position: center;
     font-family: 'Playfair Display', serif;
     color: rgb(116, 89, 49);
+    font-size: 18px
 }
 .container{
     background-color: rgba($color: #fff, $alpha: 0.5);
@@ -30,6 +31,7 @@ body{
         font-size: 26px;
         min-height: 110px;
         font-family: "Great Vibes", cursive;
+        font-size: 30px;
     }
     blockquote::before, blockquote::after{
         content: '"';
