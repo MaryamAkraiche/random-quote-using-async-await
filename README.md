@@ -4,6 +4,13 @@ Welcome to the Sparkling Quotes Portal! 🌟
 
 Embark on a journey of inspiration as this enchanting web page fetches soul-nourishing quotes from the Quotes API provided by [That's the Spirit](https://thatsthespir.it). With just a magical click, you'll uncover a new quote to illuminate your day and ignite your spirit.
 
+## Features
+
+- Fetches a random quote from the "Quotes" API using async/await.
+- Displays the fetched quote on the webpage.
+- Handles errors gracefully using try/catch, displaying an error message to the user if the request fails.
+- Allows the user to generate another random quote by clicking a button.
+
 ## Discover
 
 - Embrace the magic of the "New Quote" button to unveil a random quote.
